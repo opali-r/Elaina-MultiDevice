@@ -49,19 +49,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=' //Link Instagrammu
 global.sgh = 'https://github.com/mytobot' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCfkAt1'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085172446692' //Nomor Danamu
-global.ppulsa = '085172446692' //Nomor SimCard Yang Kamu Pake
+global.pdana = '642737314131' //Nomor Danamu
+global.ppulsa = '642737314131' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282131369002' //Nomor Bot
-global.nomorown = '6285172446692' //Nomor Owner
-global.namebot = 'Victor BOT' //Nama Bot
+global.nomorbot = '642737314131' //Nomor Bot
+global.nomorown = '642737314131' //Nomor Owner
+global.namebot = 'NOBITA's BOT' //Nama Bot
 global.nameown = '𝙻𝙴𝚅𝙸 - 𝙲𝚈𝚇' // Nama Owner
 
 
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃 汉  」' //Main Watermark
+global.wm = '                「 NOBITA's 𝙱𝙾𝚃 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙻𝙴𝚅𝙸 - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃'
+global.wm3 = '⫹⫺ NOBITA's 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
